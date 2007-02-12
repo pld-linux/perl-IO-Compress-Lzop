@@ -6,7 +6,7 @@
 %define	pdir	IO
 %define	pnam	Compress-Lzop
 Summary:	Modules to read/write lzop files/buffers
-Summary(pl.UTF-8):   Moduły do odczytu/zapisu plików/buforów lzop
+Summary(pl.UTF-8):	Moduły do odczytu/zapisu plików/buforów lzop
 Name:		perl-IO-Compress-Lzop
 Version:	2.001
 Release:	1
