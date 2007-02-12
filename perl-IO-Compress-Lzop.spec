@@ -6,7 +6,7 @@
 %define	pdir	IO
 %define	pnam	Compress-Lzop
 Summary:	Modules to read/write lzop files/buffers
-Summary(pl):	Modu³y do odczytu/zapisu plików/buforów lzop
+Summary(pl.UTF-8):   ModuÅ‚y do odczytu/zapisu plikÃ³w/buforÃ³w lzop
 Name:		perl-IO-Compress-Lzop
 Version:	2.001
 Release:	1
@@ -30,10 +30,10 @@ IO::Compress::Lzop and IO::Uncompress::UnLzop modules provide a Perl
 interface that allows reading and writing lzop compressed data from/to
 files or buffer.
 
-%description -l pl
-Modu³y IO::Compress::Lzop i IO::Uncompress::UnLzop udostêpniaj±
-perlowy interfejs umo¿liwiaj±cy odczyt i zapis danych skompresowanych
-algorytmem lzop z/do plików lub buforów.
+%description -l pl.UTF-8
+ModuÅ‚y IO::Compress::Lzop i IO::Uncompress::UnLzop udostÄ™pniajÄ…
+perlowy interfejs umoÅ¼liwiajÄ…cy odczyt i zapis danych skompresowanych
+algorytmem lzop z/do plikÃ³w lub buforÃ³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
