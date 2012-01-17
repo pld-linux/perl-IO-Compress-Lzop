@@ -13,7 +13,7 @@ Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/IO/PMQS/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	f8e4f4b2bbb1d8cf7a99442e2b10817f
 URL:		http://search.cpan.org/dist/IO-Compress-Lzop/
 BuildRequires:	perl-devel >= 1:5.8.0
