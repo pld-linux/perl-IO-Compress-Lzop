@@ -8,13 +8,13 @@
 Summary:	Modules to read/write lzop files/buffers
 Summary(pl.UTF-8):	Moduły do odczytu/zapisu plików/buforów lzop
 Name:		perl-IO-Compress-Lzop
-Version:	2.045
-Release:	2
+Version:	2.048
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f8e4f4b2bbb1d8cf7a99442e2b10817f
+# Source0-md5:	c7f39dff3f89faba0c271853616fa33e
 URL:		http://search.cpan.org/dist/IO-Compress-Lzop/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
